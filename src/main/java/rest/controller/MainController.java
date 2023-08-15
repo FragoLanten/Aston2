@@ -11,4 +11,8 @@ public class MainController {
     public String sayHello() {
         return "hello";
     }
+
+    public String sayBuy(){
+        return "buy";
+    }
 }
